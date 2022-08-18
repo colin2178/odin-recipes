@@ -33,11 +33,24 @@
   }
 /* #5  This is a class attribute */
 
+/* Exercise 3*/
+/* First element is "scooby"*/
+/* Second element is "chad"*/
+ .scooby, 
+  .chad {
+   font-size: 28px;
+   font-family: Helvetica, "Times New Roman", sans-serif;
+ }
 
+ .scooby {
+  color: white;
+  background-color: black;
+ }
 
-
-
-
+ .chad {
+  color: black;
+  background-color: yellow;
+ }
 
 
 
